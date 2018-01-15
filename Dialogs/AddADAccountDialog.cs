@@ -6,7 +6,7 @@ using Microsoft.Bot.Builder.Dialogs;
 using Newtonsoft.Json;
 using RestSharp;
 
-namespace SimpleTaskAutomationBot.Dialogs
+namespace Microsoft.Bot.Sample.Dialogs
 {
     [Serializable]
     public class AddADAccountDialog : IDialog<object>

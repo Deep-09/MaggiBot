@@ -6,7 +6,7 @@ using Microsoft.Bot.Builder.Dialogs;
 using Newtonsoft.Json;
 using RestSharp;
 
-namespace SimpleTaskAutomationBot.Dialogs
+namespace SimpleEchoBot.Dialogs
 {
     [Serializable]
     public class TakeVMSnapDialog : IDialog<object>

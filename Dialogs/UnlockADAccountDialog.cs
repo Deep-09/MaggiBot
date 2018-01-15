@@ -1,6 +1,6 @@
 ﻿using Microsoft.Bot.Builder.Dialogs;
 
-namespace SimpleTaskAutomationBot.Dialogs
+namespace SimpleEchoBot.Dialogs
 {
     using System;
     using System.Threading.Tasks;
